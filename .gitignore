@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Dataset: re-downloaded and rebuilt by reproduce/data.py (25 MB)
+reproduce/data/
+
+# Smoke-test outputs
+reproduce/results_smoke/
